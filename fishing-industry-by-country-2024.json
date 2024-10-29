@@ -1,0 +1,1892 @@
+[
+  {
+    "country": "India",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 15774325,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 5539025,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 10235300,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 14433205,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 5024905,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 9408300
+  },
+  {
+    "country": "China",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 88567716,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 13179077,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 75388639,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 85948134,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 13142837,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 72805297
+  },
+  {
+    "country": "United States",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 4741660,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 4262836,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 478824,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 4731048,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 4282433,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 448615
+  },
+  {
+    "country": "Indonesia",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 22032425,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 7398555,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 14633869,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 21813413,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 7206879,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 14606534
+  },
+  {
+    "country": "Pakistan",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 665520,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 500045,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 165475,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 660586,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 496059,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 164527
+  },
+  {
+    "country": "Nigeria",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 1043230,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 784124,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 259106,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 1080855,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 805210,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 275645
+  },
+  {
+    "country": "Brazil",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 1497393,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 758512,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 738881,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 1410979,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 760623,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 650356
+  },
+  {
+    "country": "Bangladesh",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 4758731,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 2027661,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 2731070,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 4621228,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 1982483,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 2638745
+  },
+  {
+    "country": "Russia",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 5339717,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 4991530,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 348187,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 5487045,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 5167703,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 319342
+  },
+  {
+    "country": "Ethiopia",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 102470,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 101400,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 1070,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 61390,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 60650,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 740
+  },
+  {
+    "country": "Mexico",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 1972994,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 1683376,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 289619,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 1875566,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 1628652,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 246914
+  },
+  {
+    "country": "Japan",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 3910316,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 2967756,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 942560,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 4114570,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 3150890,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 963680
+  },
+  {
+    "country": "Egypt",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 1992627,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 440197,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 1552430,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 2001959,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 425770,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 1576189
+  },
+  {
+    "country": "Philippines",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 4120499,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 1771247,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 2349252,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 4114594,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 1842067,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 2272528
+  },
+  {
+    "country": "DR Congo",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 233860,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 228665,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 5195,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 233860,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 228665,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 5195
+  },
+  {
+    "country": "Vietnam",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 8760378,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 3590003,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 5170375,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 8289524,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 3540250,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 4749274
+  },
+  {
+    "country": "Iran",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 1258203,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 779466,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 478737,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 1258203,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 779466,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 478737
+  },
+  {
+    "country": "Turkey",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 849826,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 335003,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 514823,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 799844,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 328158,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 471686
+  },
+  {
+    "country": "Germany",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 206266,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 179721,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 26545,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 220312,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 187663,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 32649
+  },
+  {
+    "country": "Thailand",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 2386672,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 1385491,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 1001181,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 2402021,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 1412123,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 989898
+  },
+  {
+    "country": "United Kingdom",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 864698,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 634419,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 230280,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 864698,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 634419,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 230280
+  },
+  {
+    "country": "Tanzania",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 159271,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 38650,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 120621,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 621058,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 514575,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 106482
+  },
+  {
+    "country": "France",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 735366,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 534876,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 200490,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 708995,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 510110,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 198886
+  },
+  {
+    "country": "South Africa",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 484806,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 473451,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 11355,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 501855,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 491330,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 10525
+  },
+  {
+    "country": "Italy",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 276306,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 143646,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 132661,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 296358,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 150496,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 145862
+  },
+  {
+    "country": "Kenya",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 174699,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 145801,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 28898,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 152728,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 130903,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 21825
+  },
+  {
+    "country": "Myanmar",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 3061808,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 1864730,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 1197078,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 2594957,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 1665740,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 929217
+  },
+  {
+    "country": "Colombia",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 312512,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 107570,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 204942,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 321390,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 128869,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 192521
+  },
+  {
+    "country": "South Korea",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 3742566,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 1314889,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 2427677,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 3742566,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 1314889,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 2427677
+  },
+  {
+    "country": "Sudan",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 53250,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 44250,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 9000,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 44450,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 34550,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 9900
+  },
+  {
+    "country": "Uganda",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 546312,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 444935,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 101377,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 760545,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 621987,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 138558
+  },
+  {
+    "country": "Spain",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 1085165,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 809094,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 276071,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 1088454,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 808544,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 279910
+  },
+  {
+    "country": "Algeria",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 85998,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 80790,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 5208,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 83979,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 79200,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 4779
+  },
+  {
+    "country": "Iraq",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 67550,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 44550,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 23000,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 66374,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 43680,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 22694
+  },
+  {
+    "country": "Argentina",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 853775,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 847753,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 6022,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 856253,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 852566,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 3687
+  },
+  {
+    "country": "Afghanistan",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 13150,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 2000,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 11150,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 12607,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 1500,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 11107
+  },
+  {
+    "country": "Yemen",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 178200,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 178190,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 10,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 131317,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 131307,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 10
+  },
+  {
+    "country": "Canada",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 870640,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 704177,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 166463,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 945954,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 754505,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 191449
+  },
+  {
+    "country": "Poland",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 224633,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 178523,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 46110,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 246172,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 201385,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 44787
+  },
+  {
+    "country": "Morocco",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 1592954,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 1590644,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 2310,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 1434205,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 1432199,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 2006
+  },
+  {
+    "country": "Angola",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 471672,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 469336,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 2336,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 531772,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 528964,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 2808
+  },
+  {
+    "country": "Ukraine",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 37351,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 22721,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 14630,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 79388,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 62506,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 16882
+  },
+  {
+    "country": "Uzbekistan",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 185274,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 55000,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 130274,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 171933,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 53000,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 118933
+  },
+  {
+    "country": "Malaysia",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 1892541,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 1318359,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 574182,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 1754209,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 1337231,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 416978
+  },
+  {
+    "country": "Mozambique",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 461914,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 456375,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 5539,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 376763,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 373563,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 3200
+  },
+  {
+    "country": "Ghana",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 652309,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 519627,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 132682,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 482142,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 392762,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 89380
+  },
+  {
+    "country": "Peru",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 5509031,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 5368101,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 140931,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 6726989,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 6576171,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 150818
+  },
+  {
+    "country": "Saudi Arabia",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 184108,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 64263,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 119845,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 181949,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 67459,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 114490
+  },
+  {
+    "country": "Madagascar",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 152318,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 127190,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 25128,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 130333,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 113937,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 16396
+  },
+  {
+    "country": "Ivory Coast",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 106143,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 99943,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 6200,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 111015,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 105295,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 5720
+  },
+  {
+    "country": "Nepal",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 108385,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 21000,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 87385,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 121854,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 21000,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 100854
+  },
+  {
+    "country": "Cameroon",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 309153,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 299035,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 10118,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 300130,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 290330,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 9800
+  },
+  {
+    "country": "Venezuela",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 276701,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 223100,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 53601,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 276701,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 223100,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 53601
+  },
+  {
+    "country": "Niger",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 48170,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 47670,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 500,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 47672,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 47200,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 472
+  },
+  {
+    "country": "Australia",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 290290,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 165059,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 125231,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 297233,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 171026,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 126206
+  },
+  {
+    "country": "North Korea",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 888630,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 208070,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 680560,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 888630,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 208070,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 680560
+  },
+  {
+    "country": "Syria",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 6185,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 4430,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 1755,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 6660,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 4310,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 2350
+  },
+  {
+    "country": "Mali",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 119196,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 110366,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 8830,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 115584,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 107100,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 8484
+  },
+  {
+    "country": "Burkina Faso",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 30938,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 30044,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 894,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 30609,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 29731,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 878
+  },
+  {
+    "country": "Sri Lanka",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 391703,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 332623,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 59080,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 431255,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 380278,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 50977
+  },
+  {
+    "country": "Malawi",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 194013,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 186865,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 7148,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 180508,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 170560,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 9948
+  },
+  {
+    "country": "Zambia",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 185076,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 109428,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 75648,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 168480,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 105125,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 63355
+  },
+  {
+    "country": "Kazakhstan",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 52130,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 42692,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 9438,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 46896,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 41457,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 5438
+  },
+  {
+    "country": "Chad",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 107120,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 107000,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 120,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 103110,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 103000,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 110
+  },
+  {
+    "country": "Chile",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 4214240,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 2690091,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 1524149,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 3833592,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 2390072,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 1443520
+  },
+  {
+    "country": "Romania",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 17467,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 6256,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 11211,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 18065,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 6351,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 11714
+  },
+  {
+    "country": "Somalia",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": null,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 30000,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": null,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": null,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 30000,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": null
+  },
+  {
+    "country": "Senegal",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 535356,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 533771,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 1585,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 515108,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 513957,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 1151
+  },
+  {
+    "country": "Guatemala",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 58570,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 16257,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 42313,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 43666,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 11082,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 32583
+  },
+  {
+    "country": "Netherlands",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 338052,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 298622,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 39430,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 340131,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 299541,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 40590
+  },
+  {
+    "country": "Ecuador",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 1811374,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 688326,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 1123048,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 1760054,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 863619,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 896435
+  },
+  {
+    "country": "Cambodia",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 864050,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 533450,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 330600,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 856400,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 508050,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 348350
+  },
+  {
+    "country": "Zimbabwe",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 34514,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 26161,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 8353,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 27792,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 22734,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 5058
+  },
+  {
+    "country": "Guinea",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 336050,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 334870,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 1180,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 326270,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 325120,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 1150
+  },
+  {
+    "country": "Benin",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 80655,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 76105,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 4550,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 78765,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 74615,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 4150
+  },
+  {
+    "country": "Rwanda",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 44937,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 32735,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 12202,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 42407,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 32094,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 10313
+  },
+  {
+    "country": "Burundi",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 20475,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 19935,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 540,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 21040,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 19550,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 1490
+  },
+  {
+    "country": "Bolivia",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 11453,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 7600,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 3853,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 11453,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 7600,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 3853
+  },
+  {
+    "country": "Tunisia",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 149631,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 128705,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 20926,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 150321,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 124243,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 26077
+  },
+  {
+    "country": "South Sudan",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 47047,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 47000,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 47,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 32545,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 32500,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 45
+  },
+  {
+    "country": "Haiti",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 18395,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 16710,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 1685,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 17830,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 16220,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 1610
+  },
+  {
+    "country": "Belgium",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 18953,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 18710,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 243,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 18160,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 17937,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 223
+  },
+  {
+    "country": "Jordan",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 3257,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 675,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 2582,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 2810,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 665,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 2145
+  },
+  {
+    "country": "Dominican Republic",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 21760,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 18010,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 3750,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 20397,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 17667,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 2730
+  },
+  {
+    "country": "United Arab Emirates",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 69035,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 65510,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 3525,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 63852,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 61189,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 2663
+  },
+  {
+    "country": "Cuba",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 29924,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 14535,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 15389,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 40718,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 18053,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 22665
+  },
+  {
+    "country": "Honduras",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 93386,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 20193,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 73193,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 79518,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 16250,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 63268
+  },
+  {
+    "country": "Czech Republic",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 22640,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 3381,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 19259,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 24305,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 3314,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 20991
+  },
+  {
+    "country": "Sweden",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 163355,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 152028,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 11327,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 175222,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 159969,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 15253
+  },
+  {
+    "country": "Tajikistan",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 4673,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 2425,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 2248,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 4389,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 2350,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 2039
+  },
+  {
+    "country": "Papua New Guinea",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 240192,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 237730,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 2462,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 194786,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 188664,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 6122
+  },
+  {
+    "country": "Portugal",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 180859,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 159891,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 20968,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 199046,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 179530,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 19516
+  },
+  {
+    "country": "Azerbaijan",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 2256,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 1790,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 466,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 1971,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 1464,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 507
+  },
+  {
+    "country": "Greece",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 207502,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 65495,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 142008,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 203558,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 59632,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 143926
+  },
+  {
+    "country": "Hungary",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 23545,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 4597,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 18948,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 22447,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 4601,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 17847
+  },
+  {
+    "country": "Togo",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 22656,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 21505,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 1151,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 18866,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 17984,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 882
+  },
+  {
+    "country": "Israel",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 15895,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 2055,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 13840,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 16910,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 2035,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 14875
+  },
+  {
+    "country": "Austria",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 5069,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 350,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 4719,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 5270,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 350,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 4920
+  },
+  {
+    "country": "Belarus",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 7520,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 356,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 7164,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 9115,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 611,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 8504
+  },
+  {
+    "country": "Switzerland",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 3986,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 1486,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 2500,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 3850,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 1486,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 2364
+  },
+  {
+    "country": "Sierra Leone",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 215285,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 215140,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 145,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 205015,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 204900,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 115
+  },
+  {
+    "country": "Laos",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 206008,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 71000,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 135008,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 206008,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 71000,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 135008
+  },
+  {
+    "country": "Turkmenistan",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 15272,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 15097,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 175,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 15202,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 15042,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 160
+  },
+  {
+    "country": "Hong Kong",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 80561,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 77200,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 3361,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 119088,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 115179,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 3909
+  },
+  {
+    "country": "Libya",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 32595,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 32585,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 10,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 31961,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 31951,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 10
+  },
+  {
+    "country": "Kyrgyzstan",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 20729,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 31,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 20698,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 10320,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 20,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 10300
+  },
+  {
+    "country": "Paraguay",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 37905,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 17905,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 20000,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 31710,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 17560,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 14150
+  },
+  {
+    "country": "Nicaragua",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 85301,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 53732,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 31569,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 86280,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 55275,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 31006
+  },
+  {
+    "country": "Bulgaria",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 15105,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 5594,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 9511,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 24183,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 9009,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 15174
+  },
+  {
+    "country": "Serbia",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 8155,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 2379,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 5776,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 9662,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 2354,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 7308
+  },
+  {
+    "country": "El Salvador",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 73034,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 60115,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 12919,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 71754,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 59005,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 12749
+  },
+  {
+    "country": "Republic of the Congo",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 65111,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 64134,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 977,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 70330,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 69419,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 911
+  },
+  {
+    "country": "Denmark",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 496114,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 458193,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 37921,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 507097,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 466503,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 40594
+  },
+  {
+    "country": "Singapore",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 4953,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 207,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 4745,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 5550,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 306,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 5244
+  },
+  {
+    "country": "Lebanon",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 3558,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 2620,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 938,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 3358,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 2580,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 778
+  },
+  {
+    "country": "Finland",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 138965,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 122684,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 16281,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 139370,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 124971,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 14399
+  },
+  {
+    "country": "Liberia",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 30713,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 29338,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 1375,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 25444,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 25169,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 275
+  },
+  {
+    "country": "Norway",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 4262103,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 2613634,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 1648469,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 4220624,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 2555512,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 1665112
+  },
+  {
+    "country": "Slovakia",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 4509,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 1895,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 2614,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 4119,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 1815,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 2304
+  },
+  {
+    "country": "Palestine",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 4922,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 4195,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 727,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 5348,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 4661,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 687
+  },
+  {
+    "country": "Central African Republic",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 29215,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 29000,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 215,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 28215,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 28000,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 215
+  },
+  {
+    "country": "Oman",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 751823,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 748355,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 3468,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 923786,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 922083,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 1703
+  },
+  {
+    "country": "Ireland",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 247553,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 203539,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 44014,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 276258,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 234159,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 42099
+  },
+  {
+    "country": "New Zealand",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 452470,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 346318,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 106152,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 459937,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 343098,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 116839
+  },
+  {
+    "country": "Mauritania",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": null,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 780383,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": null,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": null,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 860217,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": null
+  },
+  {
+    "country": "Costa Rica",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 50441,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 33669,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 16772,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 46432,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 29123,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 17309
+  },
+  {
+    "country": "Kuwait",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 2350,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 1886,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 464,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 3975,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 3525,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 450
+  },
+  {
+    "country": "Panama",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 198492,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 186645,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 11847,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 183774,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 177069,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 6704
+  },
+  {
+    "country": "Croatia",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 90839,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 63683,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 27156,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 89253,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 62422,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 26831
+  },
+  {
+    "country": "Georgia",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 200532,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 197788,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 2743,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 220365,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 217575,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 2790
+  },
+  {
+    "country": "Eritrea",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 1595,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 1591,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 4,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 4578,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 4574,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 4
+  },
+  {
+    "country": "Uruguay",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 68873,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 68782,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 91,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 66403,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 66300,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 103
+  },
+  {
+    "country": "Puerto Rico",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 1592,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 1581,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 11,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 1598,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 1580,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 18
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 4265,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 305,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 3960,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 4124,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 305,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 3819
+  },
+  {
+    "country": "Qatar",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 18537,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 18439,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 98,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 16668,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 16555,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 114
+  },
+  {
+    "country": "Moldova",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 12905,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": null,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 12905,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 12905,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": null,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 12905
+  },
+  {
+    "country": "Namibia",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 416009,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 415669,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 340,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 411170,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 410849,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 321
+  },
+  {
+    "country": "Armenia",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 25000,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 1000,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 24000,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 19700,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 770,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 18930
+  },
+  {
+    "country": "Lithuania",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 111781,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 106922,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 4859,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 101290,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 96152,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 5138
+  },
+  {
+    "country": "Jamaica",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 13474,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 12529,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 945,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 11840,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 10956,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 884
+  },
+  {
+    "country": "Albania",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 17552,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 8740,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 8812,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 18283,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 9642,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 8641
+  },
+  {
+    "country": "Gambia",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 53989,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 53947,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 42,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 52687,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 52652,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 35
+  },
+  {
+    "country": "Gabon",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 31097,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 31010,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 87,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 29925,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 29860,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 65
+  },
+  {
+    "country": "Botswana",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 209,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 38,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 171,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 201,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 38,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 163
+  },
+  {
+    "country": "Lesotho",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 1915,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 79,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 1836,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 1556,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 55,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 1501
+  },
+  {
+    "country": "Guinea-Bissau",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 63850,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 63835,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 15,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 63231,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 63221,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 10
+  },
+  {
+    "country": "Slovenia",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 1916,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 272,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 1644,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 1955,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 269,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 1686
+  },
+  {
+    "country": "Equatorial Guinea",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 6625,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 6610,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 15,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 6322,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 6307,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 15
+  },
+  {
+    "country": "Latvia",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 62378,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 61508,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 870,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 62560,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 61658,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 901
+  },
+  {
+    "country": "North Macedonia",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 2261,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 447,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 1814,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 3683,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 514,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 3169
+  },
+  {
+    "country": "Bahrain",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 19893,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 19837,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 56,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 15736,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 15720,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 16
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 13076,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 13069,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 7,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 13102,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 13084,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 18
+  },
+  {
+    "country": "Timor-Leste",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 7832,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 6707,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 1125,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 6024,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 4933,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 1091
+  },
+  {
+    "country": "Estonia",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 74740,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 73939,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 801,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 73085,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 72236,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 849
+  },
+  {
+    "country": "Cyprus",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 8895,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 1301,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 7594,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 9264,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 1401,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 7862
+  },
+  {
+    "country": "Mauritius",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 34829,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 33284,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 1545,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 32955,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 30640,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 2316
+  },
+  {
+    "country": "Eswatini",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 165,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 65,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 100,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 165,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 65,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 100
+  },
+  {
+    "country": "Djibouti",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": null,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 3121,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": null,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": null,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 3089,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": null
+  },
+  {
+    "country": "Fiji",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 32837,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 32626,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 211,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 33081,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 32874,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 206
+  },
+  {
+    "country": "Comoros",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": null,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 18933,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": null,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": null,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 19356,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": null
+  },
+  {
+    "country": "Guyana",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 37207,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 36253,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 953,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 34358,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 34216,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 142
+  },
+  {
+    "country": "Solomon Islands",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 59717,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 47838,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 11879,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 62314,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 49854,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 12461
+  },
+  {
+    "country": "Bhutan",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 200,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 9,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 191,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 208,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 15,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 193
+  },
+  {
+    "country": "Macau",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": null,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 1500,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": null,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": null,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 1500,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": null
+  },
+  {
+    "country": "Montenegro",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 1942,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 855,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 1087,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 1666,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 808,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 858
+  },
+  {
+    "country": "Suriname",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 33740,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 33695,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 45,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 32170,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 32130,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 40
+  },
+  {
+    "country": "Malta",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 20860,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 2809,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 18051,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 18936,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 2503,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 16433
+  },
+  {
+    "country": "Maldives",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": null,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 155205,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": null,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": null,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 144993,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": null
+  },
+  {
+    "country": "Cape Verde",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 7794,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 7759,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 35,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 11652,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 11624,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 28
+  },
+  {
+    "country": "Brunei",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 21080,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 16060,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 5020,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 20063,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 15295,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 4768
+  },
+  {
+    "country": "Belize",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 205894,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 204764,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 1130,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 192226,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 191621,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 605
+  },
+  {
+    "country": "Bahamas",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 9346,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 9345,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 1,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 8705,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 8705,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": null
+  },
+  {
+    "country": "Iceland",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 1486086,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 1434724,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 51362,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 1109563,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 1056427,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 53136
+  },
+  {
+    "country": "Vanuatu",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 88121,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 88117,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 4,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 55935,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 55932,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 3
+  },
+  {
+    "country": "New Caledonia",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 5664,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 4208,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 1456,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 4715,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 3305,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 1411
+  },
+  {
+    "country": "Barbados",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 857,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 852,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 6,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 872,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 847,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 26
+  },
+  {
+    "country": "French Polynesia",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 13335,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 11583,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 1752,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 14802,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 13243,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 1559
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": null,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 5703,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": null,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": null,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 6020,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": null
+  },
+  {
+    "country": "Samoa",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 9603,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 9589,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 14,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 9186,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 9176,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 10
+  },
+  {
+    "country": "Curacao",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 8827,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 8827,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": null,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 25027,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 25027,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": null
+  },
+  {
+    "country": "Saint Lucia",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 1652,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 1443,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 209,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 1625,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 1414,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 211
+  },
+  {
+    "country": "Guam",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 460,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 352,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 108,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 141,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 26,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 115
+  },
+  {
+    "country": "Kiribati",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 203296,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 203294,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 2,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 191168,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 191166,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 2
+  },
+  {
+    "country": "Seychelles",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 137838,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 137838,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": null,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 139174,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 139174,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": null
+  },
+  {
+    "country": "Grenada",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 1882,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 1856,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 26,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 1046,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 1024,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 23
+  },
+  {
+    "country": "Micronesia",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 166334,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 166334,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": null,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 166334,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 166334,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": null
+  },
+  {
+    "country": "Aruba",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 174,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 172,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 2,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 167,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 165,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 2
+  },
+  {
+    "country": "Tonga",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 1426,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 1326,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 100,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 1265,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 1165,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 100
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 1599,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 1586,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 13,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 1599,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 1586,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 13
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 3250,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 3230,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 20,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 3225,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 3205,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 20
+  },
+  {
+    "country": "United States Virgin Islands",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 428,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 420,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 8,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 428,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 420,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 8
+  },
+  {
+    "country": "Isle of Man",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": null,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 3041,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": null,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": null,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 3041,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": null
+  },
+  {
+    "country": "Cayman Islands",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 213,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 125,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 88,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 135,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 125,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 10
+  },
+  {
+    "country": "Dominica",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 293,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 290,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 3,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 289,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 288,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 1
+  },
+  {
+    "country": "Bermuda",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": null,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 392,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": null,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": null,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 419,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": null
+  },
+  {
+    "country": "Greenland",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": null,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 307055,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": null,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": null,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 271027,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": null
+  },
+  {
+    "country": "Faroe Islands",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 714655,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 605910,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 108745,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 656364,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 540604,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 115760
+  },
+  {
+    "country": "Saint Kitts and Nevis",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 674,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 670,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 4,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 371,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 369,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 2
+  },
+  {
+    "country": "American Samoa",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 1329,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 1311,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 18,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 1079,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 1059,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 20
+  },
+  {
+    "country": "Turks and Caicos Islands",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 2277,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 2277,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": null,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 2277,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 2277,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": null
+  },
+  {
+    "country": "Northern Mariana Islands",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 230,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 189,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 41,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 230,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 189,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 41
+  },
+  {
+    "country": "Sint Maarten",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": null,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 253,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": null,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": null,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 253,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": null
+  },
+  {
+    "country": "British Virgin Islands",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 1135,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 1134,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 1,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 1134,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 1133,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 1
+  },
+  {
+    "country": "Gibraltar",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": null,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 1,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": null,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": null,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 1,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": null
+  },
+  {
+    "country": "Monaco",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": null,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 1,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": null,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": null,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 1,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": null
+  },
+  {
+    "country": "Marshall Islands",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 91643,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 91636,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 6,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 95933,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 95933,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": null
+  },
+  {
+    "country": "Saint Martin",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": null,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 90,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": null,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": null,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 90,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": null
+  },
+  {
+    "country": "Palau",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 823,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 813,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 10,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 804,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 786,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 18
+  },
+  {
+    "country": "Nauru",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 106751,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 106750,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 1,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 120410,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 120409,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 1
+  },
+  {
+    "country": "Tuvalu",
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2022": 42782,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2022": 42781,
+    "FishingIndustry_AquacultureProduction_tonnes_2022": 1,
+    "FishingIndustry_TotalFisheriesProduction_tonnes_2021": 31097,
+    "FishingIndustry_CaptureFisheriesProduction_tonnes_2021": 31096,
+    "FishingIndustry_AquacultureProduction_tonnes_2021": 1
+  }
+]
